@@ -17,6 +17,6 @@ setup(
     author='Pierre Rouanet',
     author_email='pierre.rouanet@gmail.com',
     packages=find_packages(exclude=['tests']),
-    python_requires='>=2.7, >=3.5',
+    python_requires='>=3.5',
     install_requires=[],
 )
