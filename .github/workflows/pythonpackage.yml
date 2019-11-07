@@ -33,4 +33,4 @@ jobs:
         pip install pytest
         pip install -e .
         pytest
-        pip uninstall zzlog
+        pip uninstall -y zzlog
